@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Sounds"/>
+    <qresource prefix="/Player">
+        <file>playertest.png</file>
+    </qresource>
+    <qresource prefix="/Backgrounds">
+        <file>startingbackground.png</file>
+    </qresource>
+</RCC>
