@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/textures"/>
+    <qresource prefix="/">
+        <file>orange-tile.png</file>
+        <file>valid-wordle-words.txt</file>
+    </qresource>
+</RCC>
